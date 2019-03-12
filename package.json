@@ -1,7 +1,7 @@
 {
-  "name": "pokemon-cli",
+  "name": "awesome-pokemon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get 🎉 awesome Pokémon",
   "main": "./lib/index.js",
   "bin": {
     "pokemon": "./lib/index.js"
@@ -28,7 +28,7 @@
     "clear": "^0.1.0",
     "commander": "^2.19.0",
     "figlet": "^1.2.1",
-    "path": "^0.12.7"
+    "gradient-string": "^1.2.0"
   },
   "devDependencies": {
     "@types/node": "^11.11.1",
