@@ -5,7 +5,7 @@
 ### Install
 
 ```
-$ yarn add global awesome-pokemon
+$ yarn global add awesome-pokemon
 ```
 
 ### Usage
