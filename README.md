@@ -27,4 +27,4 @@ Options:
 
 ### License
 
-![](https://img.shields.io/github/license/cuongw/pokemon-cli.svg?style=flat-square)
+![](https://img.shields.io/github/license/103cuong/pokemon-cli.svg?style=flat-square)
